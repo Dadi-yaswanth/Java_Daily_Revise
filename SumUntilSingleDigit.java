@@ -1,6 +1,6 @@
 class SumUntilSingleDigit{
     public static void main(String[] args) {
-        int num = 1234;
+        int num = 4535546;
         int sum = 0;
 
         while(num >0 || sum >9){
